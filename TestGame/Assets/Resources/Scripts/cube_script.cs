@@ -29,6 +29,7 @@ public class cube_script : MonoBehaviour {
             move.y = cube00.transform.position.y + 1;
         }
 
+        int lolo;
 
         cube00.transform.position = move;
     }
